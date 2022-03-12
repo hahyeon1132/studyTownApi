@@ -1,0 +1,1 @@
+docker run --name=$1 -it -d -v `pwd`:/web studytown-api:1.0 bash
