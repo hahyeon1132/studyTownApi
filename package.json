@@ -1,0 +1,22 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "스터디 타운 api\r ### [개발자 환경 설정]\r 1. vscode에 Remote Development, Docker 확장 설치",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parkwoohyoun/StudyTownApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parkwoohyoun/StudyTownApi/issues"
+  },
+  "homepage": "https://github.com/Parkwoohyoun/StudyTownApi#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
